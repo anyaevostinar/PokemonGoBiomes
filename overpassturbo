@@ -220,7 +220,7 @@ way[leisure=playground] { set .psychic; }
 way[landuse=allotments], way[highway=pedestrian] { set .ground; }
 way[natural=bare_rock], way[natural=cliff], way[landuse=quarry] { set .rock; }
 way[amenity=fire_station], way[amenity=crematorium] { set .fire; }
-way[amenity=school], way[leisure=track], way[leisure=dog_park] { set .fighting; }
+way[leisure=track], way[leisure=dog_park] { set .fighting; }
 way[leisure=pitch], way[amenity=kindergarten] { set .fairy; }
 way[landuse=commercial], way[building:material=aluminium], way[building:material=steel], way[building:material=metal], way[building:material=metal_plates], way[material=steel], way[material=metal] { set .steel; }
 way[incline] { set .flying; }
