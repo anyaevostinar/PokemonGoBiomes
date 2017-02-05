@@ -36,7 +36,7 @@
   
 // Fighting
 (
-  way["amenity"="school"];
+  //way["amenity"="school"]; Schools are dead zones
   way["leisure"="track"];
   // Very often Mankey
   way["leisure"="dog_park"];
